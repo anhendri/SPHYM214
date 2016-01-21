@@ -1,0 +1,16 @@
+0
+400	800	1
+0
+14 2
+1 1
+150 5.52
+150 1.90
+
+!angle d'incidence
+!longueur d'onde
+!0 = TE 1 = TM
+!nombre de couche
+!epsilon incident
+!epsilon substrat
+!!épaisseur de couche (slabs=35, rods=140) 
+!!et indice de réfraction (slabs=2.56, rods air= 1.63, rods water= 2.14)

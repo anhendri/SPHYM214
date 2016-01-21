@@ -1,0 +1,17 @@
+100	800	1
+1 1
+24
+2
+35  2.56
+140 1.63
+13
+1
+
+!longueur d'onde et pas
+! epsilon incident et epsilon substrat
+! nombre de couche
+! nombre de couche par période
+! epaisseur de epsilon couche
+! ...
+! position de la source
+! Jx

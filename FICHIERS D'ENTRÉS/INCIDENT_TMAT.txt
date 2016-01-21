@@ -1,0 +1,10 @@
+1 % Nlambda
+0.520000e-006 0.520000e-006 % lambda_start lambda_stop
+1.000000e+000 % Ntheta
+0.000000e+001 0.000000e+001  % theta_start theta_stop (deg)
+1.000000e+000 % Nphi
+0.000000e+000 0.000000e+000  % phi_start phi_stop (deg)
+5.000000e-003  % power (W)
+5.000000e-004  % radius (m)
+0.500000e+000 0.000000e+000  % s_polR s_polI
+0.500000e+000 0.000000e+000  % p_polR p_polI
